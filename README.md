@@ -1,7 +1,11 @@
 ## How to Run
+
+Java version: 11
+
 ```cmd
 java -jar kenneth-show-booking-0.0.1-SNAPSHOT.jar
 ```
+
 
 # Assumptions made
 
